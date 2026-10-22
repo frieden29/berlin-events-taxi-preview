@@ -1,0 +1,26 @@
+{
+  "extracted": 4750,
+  "accepted": 4712,
+  "rejected": 38,
+  "rejection_reasons": {
+    "already_in_original_inventory": 5,
+    "inactive_or_private": 12,
+    "missing_name": 19,
+    "duplicate_name_address_within_30m": 2
+  },
+  "with_coordinates": 4712,
+  "field_coverage": {
+    "cuisine": 3775,
+    "open24Hours": 6,
+    "takeaway": 487,
+    "delivery": 309,
+    "wheelchair": 2261,
+    "halal": 91,
+    "vegetarian": 1639,
+    "vegan": 1094
+  },
+  "extracted_on": "2026-10-22T10:28:58.597279+00:00",
+  "source_sha256": "522a49b074c272850d9bab34a28dfd508704d1741006d4e0588993f2202b70dd",
+  "license": "ODbL-1.0",
+  "boundary": "OSM relation 62422 (existing reviewed boundary)"
+}
